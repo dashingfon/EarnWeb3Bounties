@@ -2,9 +2,9 @@
 
 ## Deploy a smart contract using QuickNode's RPC's
 
-Deployed the contract and changed the contract owner
+Deployed the contract on ethereum goerli testnet
 
-Contract Address: 0x8A782f3cf32aa4d2FeE83574Fd9853F9C9CC49b3
+Contract Address: 0xd0a61FFA99b69F795e7b7d4d60D1B76D34bE8755
 
 [Contract Source Code](https://github.com/dashingfon/CryptoArbitrage/blob/master/contracts/BscArb.sol)
 
